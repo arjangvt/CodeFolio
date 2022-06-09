@@ -1,6 +1,6 @@
 """
-I used Naive Bayes model to classify documents.
-To be different I chose to old writes Chauser's 
+Here I used Naive Bayes model to classify documents.
+To try non conventional data I chose use Chauser's 
 The Canterberry Tales and Shakespeare's seleceted 
 works. The data were downloaded from 
 https://www.gutenberg.org/.
@@ -11,8 +11,6 @@ repository "library.zip"
 Written by: Arjang Fahim
 Date: 5/20/2022 
 
-Note: This is just a hobby project. Use the code 
-with your own responibility. 
 If you have any questions or suggestions, please 
 email me at "arjangvt at gmail dot com"
 """
