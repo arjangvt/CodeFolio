@@ -1,12 +1,16 @@
 """
 Here I used Naive Bayes model to classify documents.
-To try non conventional data I chose use Chauser's 
+To try non conventional data I used Chauser's 
 The Canterberry Tales and Shakespeare's seleceted 
-works. The data were downloaded from 
+works. The raw data can be downloaded from 
 https://www.gutenberg.org/.
 
-The processed data also can be found in this
+The processed and cleaned data also can be found in this
 repository "library.zip"
+
+I also included scripts I used to clean up data.
+The scrips can be found here:
+https://github.com/arjangvt/CodeFolio/blob/main/ML/NLP/TextAnalysis.py
 
 Written by: Arjang Fahim
 Date: 5/20/2022 
